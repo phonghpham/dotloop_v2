@@ -4,7 +4,7 @@ require "oauth2"
 
 
 get "/" do
-  "gimme permission !"
+  "gimme permission !!!"
 end
 
 
